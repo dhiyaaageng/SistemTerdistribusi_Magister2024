@@ -1,0 +1,65 @@
+id,timestamp,pregnancies,glucose,blood_pressure,skin_thickness,insulin,bmi,diabetes_pedigree,age,prediction_result,recommendation
+20241126182255,2024-11-26 18:22:55,12.0,23.0,13.0,13.0,32.0,43.0,12.0,31.0,"Terindikasi Diabetes Melitus, Silahkan Lakukan Pemeriksaan Lebih Lanjut",Error: Terjadi kesalahan di server (500).
+20241126182648,2024-11-26 18:26:48,13.0,23.0,33.0,333.0,33.0,33.0,33.0,33.0,"Terindikasi Diabetes Melitus, Silahkan Lakukan Pemeriksaan Lebih Lanjut",Error: Terjadi kesalahan di server (500).
+20241126183631,2024-11-26 18:36:31,12.0,12.0,12.0,12.0,12.0,121.0,12.0,12.0,"Terindikasi Diabetes Melitus, Silahkan Lakukan Pemeriksaan Lebih Lanjut","Error: 405 - {""detail"":""Method Not Allowed""}"
+20241127074249,2024-11-27 07:42:49,12.0,34.0,23.0,43.0,43.0,23.0,43.0,32.0,Hasil Analisa Tidak Mengidap Diabetes,"Error: Permintaan tidak valid - {'error': {'message': 'Invalid JSON', 'code': 400}}"
+20241127074700,2024-11-27 07:47:00,21.0,23.0,12.0,32.0,12.0,45.0,23.0,45.0,"Terindikasi Diabetes Melitus, Silahkan Lakukan Pemeriksaan Lebih Lanjut","Error: Permintaan tidak valid - {'error': {'message': 'Invalid JSON', 'code': 400}}"
+20241127075516,2024-11-27 07:55:16,23.0,34.0,23.0,34.0,23.0,34.0,24.0,43.0,"Terindikasi Diabetes Melitus, Silahkan Lakukan Pemeriksaan Lebih Lanjut","Error: Permintaan tidak valid - {'error': {'message': 'Invalid JSON', 'code': 400}}"
+20241127082333,2024-11-27 08:23:33,23.0,34.0,32.0,43.0,34.0,23.0,43.0,34.0,Hasil Analisa Tidak Mengidap Diabetes,"Berikut beberapa rekomendasi kesehatan yang dapat dilakukan oleh seseorang yang tidak menderita diabetes:
+
+1. **Makan Makanan yang Seimbang**: Konsumsi makanan yang kaya serat, seperti sayuran, buah-buahan, dan biji-bijian. Pilihlah protein yang rendah lemak, seperti ikan, ayam, dan kacang-kacangan. Batasi konsumsi gula tambahan dan lemak jenuh.
+2. **Perbanyak Minum Air**: Minum air yang cukup setiap hari untuk menjaga hidrasi tubuh. Batasi konsumsi minuman manis dan berkafein.
+3. **Lakukan Aktivitas Fisik Teratur**: Lakukan aktivitas fisik yang Anda sukai, seperti berjalan, berlari, bersepeda, atau berenang. Usahakan untuk melakukan aktivitas fisik setidaknya 150 menit per minggu.
+4. **Jaga Berat Badan Ideal**: Jaga berat badan ideal dengan mengontrol asupan kalori dan melakukan aktivitas fisik teratur.
+5. **Tidur yang Cukup**: Pastikan Anda mendapatkan tidur yang cukup setiap malam, yaitu sekitar 7-8 jam.
+6. **Batasi Stres**: Lakukan teknik relaksasi, seperti meditasi, yoga, atau pernapasan dalam, untuk mengurangi stres.
+7. **Periksa Kesehatan Secara Teratur**: Lakukan pemeriksaan kesehatan secara teratur untuk memantau kondisi kesehatan Anda.
+8. **Jangan Merokok**: Hindari merokok karena dapat meningkatkan risiko penyakit kronis, seperti penyakit jantung dan kanker.
+9. **Batasi Konsumsi Gula**: Batasi konsumsi gula tambahan dan pilihlah makanan yang rendah gula.
+10. **Lakukan Aktivitas yang Anda Sukai**: Lakukan aktivitas yang Anda sukai dan yang dapat membuat Anda bahagia, seperti hobi atau kegiatan sosial.
+
+Dengan melakukan rekomendasi kesehatan di atas, Anda dapat menjaga kesehatan tubuh dan mengurangi risiko penyakit kronis."
+20241127082453,2024-11-27 08:24:53,23.0,34.0,32.0,43.0,34.0,23.0,43.0,34.0,Hasil Analisa Tidak Mengidap Diabetes,"Berikut beberapa tips kesehatan untuk orang yang tidak menderita diabetes:
+
+*   Konsumsi makanan yang seimbang, seperti sayuran, buah-buahan, biji-bijian, dan sumber protein tanpa lemak.
+*   Jaga berat badan ideal dengan rutin berolahraga, seperti jalan kaki, berlari, berenang, atau bersepeda.
+*   Batasi konsumsi makanan yang mengandung gula dan lemak, seperti permen, kue, atau makanan yang digoreng.
+*   Hindari merokok dan minuman beralkohol karena dapat meningkatkan risiko penyakit kronis, seperti penyakit jantung, gangguan otak, dan kanker.
+*   Tidur yang cukup dan berkualitas, yaitu 7-9 jam sehari, dapat meningkatkan kesehatan tubuh dan mengurangi risiko penyakit kronis.
+*   Lakukan pemeriksaan kesehatan secara teratur, seperti cek tekanan darah dan kadar gula darah, untuk mendeteksi masalah kesehatan lebih awal.
+*   Kelola stres dengan baik, melalui teknik relaksasi atau meditasi, agar dapat mengurangi risiko penyakit kronis.
+*   Simpan air mineral di dalam kulkas untuk tetap terhidrasi sepanjang hari agar menjaga kesehatan tubuh dan mencegah dehidrasi.
+
+Dengan mengikuti saran-saran tersebut, Anda akan memiliki risiko lebih rendah mengalami masalah kesehatan."
+20241127082650,2024-11-27 08:26:50,43.0,43.0,43.0,43.0,43.0,43.0,34.0,43.0,Hasil Analisa Tidak Mengidap Diabetes,"Berikut beberapa tips kesehatan untuk seseorang yang tidak terkena diabetes:
+
+1.  Makan makanan seimbang: Makan makanan yang seimbang secara gizi, dengan perbandingan yang tepat dari karbohidrat, protein, dan lemak. Pilih sayuran segar, buah, roti gandum, dan sumber protein seperti ikan, ayam, dan kacang-kacangan.
+
+2.  Minum air yang cukup: Minum setidaknya delapan gelas air setiap hari untuk menjaga tubuh tetap terhidrasi dan membantu meningkatkan metabolisme.
+
+3.  Olahraga secara teratur: Lakukan olahraga secara teratur seperti jalan kaki, berlari, atau berenang untuk membantu meningkatkan stamina dan menjaga berat badan yang sehat.
+
+4.  Tidur yang cukup: Tidur yang cukup dapat membantu menjaga asupan gizi dan juga stamina tubuh. Pastikan Anda mendapatkan 7-9 jam tidur setiap malam.
+
+5.  Cek kesehatan secara rutin: Lakukan pemeriksaan kesehatan secara teratur untuk memantau kondisi kesehatan dan mendeteksi ada tidaknya kondisi medis yang memerlukan perawatan lanjut.
+
+6.  Kelola stress dengan baik: Lakukan teknik relaksasi seperti meditasi, yoga, atau pernapasan dalam untuk mengelola stres dan menjaga kekuatan mental.
+
+7.  Hindari alkohol dan rokok: Batasi konsumsi alkohol dan hindari merokok untuk mengurangi risiko kesehatan dan meningkatkan kesehatan secara keseluruhan."
+20241127083133,2024-11-27 08:31:33,6.0,120.0,110.0,0.9,0.0,23.0,0.7,25.0,Hasil Analisa Tidak Mengidap Diabetes,"Berikut beberapa rekomendasi kesehatan untuk seseorang yang tidak mengidap diabetes:
+
+1.  Makan makanan seimbang: Konsumsi makanan yang seimbang dan bergizi, termasuk buah, sayuran, biji-bijian, dan protein yang cukup. Hindari makanan yang tinggi gula, garam, dan lemak jenuh.
+2.  Lakukan olahraga teratur: Aktivitas fisik yang teratur dapat membangun kekuatan dan mengurangi cedera. Pilih olahraga yang sesuai untuk mengurangi cedera dan pastikan setiap sesi olahraga diakhiri dengan meregangkan otot.
+3.  Tidur yang cukup: Tidur yang cukup dapat meningkatkan konsentrasi dan mengurangi kelelahan. Pastikan tidur yang teratur selama 7 hingga 9 jam setiap malam.
+4.  Manajemen stres: Stres dapat berdampak negatif pada kesehatan, seperti menaikkan tekanan darah dan kadar gula darah. Lakukan teknik rileksasi seperti olahraga, meditasi, atau yoga untuk mengurangi stres.
+5.  Periksa kesehatan secara rutin: Untuk mengetahui perkembangan tubuh Anda secara lebih menyeluruh, pergilah ke dokter secara rutin. Rutin lakukan pemeriksaan seperti tekanan darah, kadar gula darah, dan kolesterol.
+6.  Istirahat yang cukup: Jika Anda kurang tidur, maka kekebalan tubuh akan menurun sehingga mengakibatkan Anda mudah mengalami stres."
+1010,2024-11-28 20:55:47,23.0,424.0,334.0,242.0,24.0,23.0,0.43,34.0,"Terindikasi Diabetes Melitus, Silahkan Lakukan Pemeriksaan Lebih Lanjut","Berikut beberapa tindakan lanjutan yang dapat dilakukan jika seseorang terindikasi mengidap diabetes:
+
+1.  **Konsultasi dokter**: Pastikan Anda mengunjungi dokter secara teratur untuk memantau kondisi diabetes dan menyesuaikan pengobatan jika diperlukan. Dokter akan membantu Anda untuk memahami kondisi diabetes dan menentukan rencana perawatan yang tepat.
+2.  **Pengawasan gizi**: Diabetes memerlukan perawatan nutrisi yang tepat. Batasi konsumsi gula dan karbohidrat sederhana, serta makan makanan yang kaya akan serat, seperti sayuran dan buah-buahan.
+3.  **Olahraga teratur**: Olahraga bisa membantu Anda untuk mengatur kadar gula darah. Pilih olahraga yang Anda sukai, seperti jalan kaki, berlari, atau berenang, dan lakukan secara teratur.
+4.  **Pengawasan kadar gula darah**: Pastikan Anda untuk memantau kadar gula darah secara teratur menggunakan alat pengukur gula darah. Ini akan membantu Anda untuk mengetahui apakah pengobatan Anda efektif atau tidak.
+5.  **Penyesuaian gaya hidup**: Diabetes memerlukan penyesuaian gaya hidup, termasuk menghindari merokok dan minum alkohol. Pastikan Anda untuk mendapatkan cukup tidur dan mengelola stres.
+
+Diabetes dapat diobati dan diatur jika Anda melakukan tindakan lanjutan yang tepat. Dengan memantau kondisi Anda dan melakukan perawatan yang tepat, Anda bisa menjaga kesehatan Anda tetap optimal."
