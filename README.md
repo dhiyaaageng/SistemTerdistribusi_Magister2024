@@ -8,5 +8,8 @@ Sistem Analisa Penyakit Diabetes yang menggunakan algoritma Decision Tree dan ar
 Link power point: 
 https://docs.google.com/presentation/d/1aTbjP8TxYbAMpFv3B6reFSAi_zbGZnkb/edit#slide=id.p1
 
+Link document report:
+https://drive.google.com/drive/folders/1gwZ9V_390K7RP4ccYnMQRRZ8tR4QFerY?usp=sharing
+
 Timeline kelompok:
 ![image](https://github.com/user-attachments/assets/6556e638-6321-41f7-86bc-bdd4ce1a2976)
